@@ -1,0 +1,17 @@
+body{
+    background-color: lightgoldenrodyellow;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+canvas{
+    margin: 10px;
+    border: 1px solid #000;
+}
+
+.editor{
+    width: fit-content;
+    margin: auto;
+    margin-top: 50px;
+    background-color: #fff;;
+}
